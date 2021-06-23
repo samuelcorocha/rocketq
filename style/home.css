@@ -43,14 +43,6 @@ main h2{
     margin-bottom: 2.4rem;
 }
 
-main button img{
-    margin-right: 1rem;
-}
-
-main .button img{
-    margin-right: 1rem;
-}
-
 input{
     border: .2rem solid var(--grey-blue);
     padding: 0 1.6rem;
