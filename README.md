@@ -1,4 +1,4 @@
 # rocketq
-My Discover repo of Next Level Week: Together powered by @rocketseat.
+My repo of Next Level Week Together: Discover powered by @rocketseat.
 
 Is an anonymous question's rooms site.
